@@ -1,0 +1,17 @@
+body {
+	direction: rtl;
+	text-align: right;
+}
+nav {
+	position: absolute;
+	right: 0px;
+	width: 150px;
+	border: 1px solid black;
+}
+section {
+	margin:0 155px;
+	border: 1px solid black;
+}
+ul {
+	list-style: none;
+}
